@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/curriculo-interativo/static/css/main.07ce882f.chunk.css",
-    "main.js": "/curriculo-interativo/static/js/main.a2cb14e8.chunk.js",
-    "main.js.map": "/curriculo-interativo/static/js/main.a2cb14e8.chunk.js.map",
+    "main.css": "/curriculo-interativo/static/css/main.4a3cb3c1.chunk.css",
+    "main.js": "/curriculo-interativo/static/js/main.990e1708.chunk.js",
+    "main.js.map": "/curriculo-interativo/static/js/main.990e1708.chunk.js.map",
     "runtime-main.js": "/curriculo-interativo/static/js/runtime-main.604361e1.js",
     "runtime-main.js.map": "/curriculo-interativo/static/js/runtime-main.604361e1.js.map",
     "static/js/2.acc6dc76.chunk.js": "/curriculo-interativo/static/js/2.acc6dc76.chunk.js",
     "static/js/2.acc6dc76.chunk.js.map": "/curriculo-interativo/static/js/2.acc6dc76.chunk.js.map",
     "index.html": "/curriculo-interativo/index.html",
-    "static/css/main.07ce882f.chunk.css.map": "/curriculo-interativo/static/css/main.07ce882f.chunk.css.map",
+    "static/css/main.4a3cb3c1.chunk.css.map": "/curriculo-interativo/static/css/main.4a3cb3c1.chunk.css.map",
     "static/js/2.acc6dc76.chunk.js.LICENSE.txt": "/curriculo-interativo/static/js/2.acc6dc76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.604361e1.js",
     "static/js/2.acc6dc76.chunk.js",
-    "static/css/main.07ce882f.chunk.css",
-    "static/js/main.a2cb14e8.chunk.js"
+    "static/css/main.4a3cb3c1.chunk.css",
+    "static/js/main.990e1708.chunk.js"
   ]
 }
